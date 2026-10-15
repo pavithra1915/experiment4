@@ -1,2 +1,3 @@
 # pavithra
-cloning
+cloning 
+commit changes
